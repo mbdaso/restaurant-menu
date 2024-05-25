@@ -220,12 +220,14 @@ body {
 }
 
 .food-container img {
-  display: block;
-  width: 100%;
+  display: block;  
   margin: auto;
   max-height: 300px;
   object-fit: cover;
   object-position: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
 }
 
 .img-container {
